@@ -1,2 +1,0 @@
-# DeSobaTechnweb
-web Desoba Tec
